@@ -1,0 +1,12 @@
+{
+ "image_name": "copilotbench-predictor",
+ "image_tag": "v1",
+ "base_image": "python:3.12-slim",
+ "test_input": {
+  "code_context_lines": 117,
+  "language_complexity": 2,
+  "prompt_length": 289,
+  "is_inline": 0
+ },
+ "prediction": 0.52
+}
